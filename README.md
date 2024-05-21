@@ -13,7 +13,7 @@ Kd = (0.5 *  L) = 1.8303
 pid_controller =
  
   23.94 s^2 + 13.08 s + 1.787
-  ---------------------------
+  ____________________________
             7.321 s
  
 Continuous-time transfer function.
